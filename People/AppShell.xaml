@@ -7,7 +7,7 @@
     Shell.FlyoutBehavior="Disabled">
 
     <ShellContent
-        Title="People"
+        Title="AR_People"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
 
